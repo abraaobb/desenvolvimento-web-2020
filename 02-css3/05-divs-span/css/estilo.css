@@ -1,0 +1,19 @@
+#topo {
+    background-color: blue;
+}
+
+#conteudo {
+    background-color: red;
+}
+
+#rodape {
+    background-color: green;
+}
+
+.produto {
+    background-color: grey;
+    margin: 10px;
+}
+.assinatura{
+    background-color: pink;
+}
