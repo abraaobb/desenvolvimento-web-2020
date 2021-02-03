@@ -1,0 +1,12 @@
+/*
+px -> fixo
+% -> relativo
+em -> relativo ao container pai
+*/
+div {
+    font-size: 60px;
+}
+
+.texto {
+    font-size: 1px;
+}

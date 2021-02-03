@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/tita.png);
+    background-color: thistle;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    height: 8000px;
+}
+.fundo{
+    background-color: blue;
+    color: white;
+}
