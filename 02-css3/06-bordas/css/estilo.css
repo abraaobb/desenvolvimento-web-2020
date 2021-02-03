@@ -1,0 +1,9 @@
+/* #conteudo{
+    border: 1px solid red;
+} */
+
+#conteudo{
+    border-color: red blue green yellow;
+    border-width: 15px 30px;
+    border-style: double;
+}
