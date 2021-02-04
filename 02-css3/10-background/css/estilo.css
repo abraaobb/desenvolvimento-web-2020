@@ -1,4 +1,4 @@
-body{
+body {
     background-image: url(../img/tita.png);
     background-color: thistle;
     background-repeat: no-repeat;
@@ -7,7 +7,8 @@ body{
     background-size: cover;
     height: 8000px;
 }
-.fundo{
+
+.fundo {
     background-color: blue;
     color: white;
 }
