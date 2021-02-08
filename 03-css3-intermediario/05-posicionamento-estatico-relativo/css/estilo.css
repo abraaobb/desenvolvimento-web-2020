@@ -1,0 +1,25 @@
+body {
+    background-color: #007fc7;
+}
+
+#container {
+    background-color: #fff;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+/* h1 {
+    position: static;
+} */
+
+p {
+    width: 300px;
+}
+
+.relative{
+    border: 1px solid red;
+    /* top right bottom left */
+    position: relative;
+    top: 20px;
+}

@@ -1,0 +1,34 @@
+body {
+    background-color: #007fc7;
+    height: 9000px;
+}
+
+#container {
+    background-color: #fff;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    /* position: relative; */
+}
+
+/* h1 {
+    position: static;
+} */
+
+p {
+    width: 300px;
+}
+
+.absolute{
+    border: 1px solid red;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 0;
+    right: 20px;
+}
+
+.fixed{
+    border: 1px solid green;
+    background-color: rgb(194, 115, 194);
+    position: fixed;
+}
