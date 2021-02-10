@@ -10,6 +10,6 @@ Curso de desenvolvimento WEB na prática com projetos reais.
 
 [Repositório](https://github.com/abraaobb/annabella-projeto)
 
-## #2 TecBlog
+## #3 TecBlog
 
 [Repositório](https://github.com/abraaobb/tecblog-projeto)
