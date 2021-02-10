@@ -9,3 +9,7 @@ Curso de desenvolvimento WEB na prática com projetos reais.
 ## #2 Anna Bella Modelo
 
 [Repositório](https://github.com/abraaobb/annabella-projeto)
+
+## #2 TecBlog
+
+[Repositório](https://github.com/abraaobb/tecblog-projeto)
