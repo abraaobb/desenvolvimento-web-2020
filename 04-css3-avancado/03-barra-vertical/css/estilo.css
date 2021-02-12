@@ -35,4 +35,5 @@ ul a {
 
 ul a:hover{
     background-position: right bottom;
+    color: #fff;
 }
