@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul a {
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    display: block;
+    background-image: url(../img/menu.png);
+    background-color: #f7b600;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    color: #000;
+    text-decoration: none;
+    text-indent: 40px;
+}
+
+ul a:hover{
+    background-color: #f99200;
+    background-position: right bottom;
+    color: #fff;
+}
+
+#home #nav .home a,
+#servicos #nav .servicos a,
+#sobre #nav .sobre a,
+#noticias #nav .noticias a,
+#contato #nav .contato a{
+    background-color: #f99200;
+    background-position: right bottom;
+    color: #fff;
+}
