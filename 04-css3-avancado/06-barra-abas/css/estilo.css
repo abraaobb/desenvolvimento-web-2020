@@ -1,0 +1,26 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    width: 720px;
+}
+
+ul li{
+    float: left;
+    background-image: url(../img/aba-direita.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+li a{
+    display: block;
+    padding: 0 2em;
+    line-height: 3em;
+    text-decoration: none;
+    background-image: url(../img/aba-esquerda.png);
+    background-repeat: no-repeat;
+}
