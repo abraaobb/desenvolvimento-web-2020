@@ -13,3 +13,7 @@ Curso de desenvolvimento WEB na prática com projetos reais.
 ## #3 TecBlog
 
 [Repositório](https://github.com/abraaobb/tecblog-projeto)
+
+## #4 Notícias Cidade
+
+[Repositório](https://github.com/abraaobb/noticias-cidade-projeto)
