@@ -17,3 +17,7 @@ Curso de desenvolvimento WEB na prática com projetos reais.
 ## #4 Notícias Cidade
 
 [Repositório](https://github.com/abraaobb/noticias-cidade-projeto)
+
+## #5 Chalé Hotel
+
+[Repositório](https://github.com/abraaobb/chale-hotel-projeto)
